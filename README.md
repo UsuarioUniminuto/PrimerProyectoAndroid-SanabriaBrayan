@@ -2,10 +2,10 @@
 
 Proyecto Android Studio en Java que reproduce la pantalla de bienvenida del ejemplo.
 
-Elaborado por:
+## Elaborado por:
 
 Brayan Leandro Sanabria Sanabria
-Ingeniería de Sistemas
+- Ingeniería de Sistemas
 
 ## Requisitos
 - Android Studio (versión compatible con Android Gradle Plugin 8.7.3)
